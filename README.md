@@ -4,20 +4,20 @@ In this repo there is the C that runs on the ATmega as well as the schematic and
 
 # Software Requirements:
 
-## AVR-GCC
-## AVRDUDE
-## MAKE 
+### AVR-GCC
+### AVRDUDE
+### MAKE 
 
 # Hardware Requirements:
 
-## ISP of your choosing
-## AVR Microcontroller
-## BCD Thumbwheel
-## IN-2 Nixie Tube (best found on ebay)
-## Indicator Nixie
-## High voltage power supply
-## L7805CV Voltage Regulator
-## K155ID1 Nixie driver
-## HV MOSFET
-## SPST Switch
-## A Smattering of Resistors
+### ISP of your choosing
+### AVR Microcontroller
+### BCD Thumbwheel
+### IN-2 Nixie Tube (best found on ebay)
+### Indicator Nixie
+### High voltage power supply
+### L7805CV Voltage Regulator
+### K155ID1 Nixie driver
+### HV MOSFET
+### SPST Switch
+### A Smattering of Resistors
