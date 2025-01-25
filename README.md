@@ -20,4 +20,8 @@ In this repo there is the C that runs on the ATmega as well as the schematic and
 ### K155ID1 Nixie driver
 ### HV MOSFET
 ### SPST Switch
-### A Smattering of Resistors
+### 3 10k ohm resistors and 1 22k ohm resistor
+### 2 pin 5mm pin pitch screw terminal
+
+Note I used an ATmega 328 because that is what I had on hand. There are 6 digital inputs and 5 digital outputs for this system.
+Any microcontoller that can accommodate this would more than likely work. 
